@@ -1,0 +1,39 @@
+*{
+    font-size: 10px;
+    font-weight: bold;
+}
+.text-center{
+    text-align: center;
+}
+.text-primary{
+    color: rgb(31, 137, 236);
+}
+.display-1{
+    font-size: 70px;
+    font-weight: lighter;
+}
+.collection-item{
+    border:1.5px solid rgb(216, 214, 214);
+    padding: 7px;
+}
+.collection-item:nth-child(even) {
+    border-top: none;
+}
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.text-small{
+    font-size: xx-small;
+    font-weight: bold;
+    color: rgb(224, 215, 215);
+}
+.bottom-border{
+    border: none;
+    border-bottom: 2px solid rgb(92, 179, 92);
+    width: 100%;
+    padding: 10px;
+}
+.cursor{
+    cursor: pointer;
+}
